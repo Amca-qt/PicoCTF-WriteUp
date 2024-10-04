@@ -1,5 +1,5 @@
 # PicoCTF-WriteUp
-Write Up For my Journey on Pico CTF ( Trying to completing all Challenges on PicoCTF )
+Write Up For my Journey on PicoCTF ( Trying to completing all Challenges on PicoCTF )
 
 <p align='center'>
   <img src='img/picoctf-logo.png' alt="PicoCTF">
