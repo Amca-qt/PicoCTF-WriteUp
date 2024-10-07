@@ -20,7 +20,7 @@ PicoCTF 2024
 
 [**PicoCTF 2024**](#PicoCTF-2024)
 - [**Verify**](#verify)
-- [**Scan Surprise**](#scan-surpries)
+- [**Scan Surprise**](#scan-surprise)
 - [**Secret Of the Polyglot**](#secret-of-the-polyglot)
 - [**CanYouSee**](#canyousee)
 - [**Mob psycho**](#mob-psycho)
