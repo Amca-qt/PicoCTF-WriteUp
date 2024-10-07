@@ -18,7 +18,7 @@ Binary Exploitation
 ## Categories
 
 [**Web Exploitation**](Challenges/Web-Exploitation)
-  - [**PicoCTF 2019**](Challenges/Web-Exploitation/#PicoCTF-2019)
+  - [**PicoCTF 2019**](Challenges/Web-Exploitation/README.md#PicoCTF-2019)
   - [**PicoCTF 2021**](Challenges/Web-Exploitation/#PicoCTF-2021)
   - [**picoMini by redpwn**](Challenges/Web-Exploitation/#picoMini)
   - [**PicoCTF 2022**](Challenges/Web-Exploitation/#PicoCTF-2022)
