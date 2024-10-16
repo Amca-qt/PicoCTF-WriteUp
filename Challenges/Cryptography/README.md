@@ -42,7 +42,22 @@ This one similar to recent 3108 CTF Events which is [``Perak : Pandak Lam``](htt
 ## PicoCTF 2021
 - ### Mod 26
 
-This one also a similar to 
+This one also a similar to [Challenge 13](https://github.com/Amca-qt/PicoCTF-WriteUp/blob/main/Challenges/Cryptography/README.md#13)
+
+``picoCTF{next_time_I'll_try_2_rounds_of_rot13_ZNMldSDw}``
 
 ## PicoCTF 2024
 - ### interencdec
+
+This task provide us with a file named ``enc_flag``, which is contain a base64 Encoded text
+
+Decode the text, then you'll get another base64 Encoded strings
+
+<img alt="interencdec" src="img/interencdec.PNG">
+
+``wpjvJAM{jhlzhy_k3jy9wa3k_h47j6k69}``
+> ROT 13 Cipher
+
+Decode the Cipher using Dcode.fr, then you'll get the flag
+
+``picoCTF{caesar_d3cr9pt3d_a47c6d69}``
