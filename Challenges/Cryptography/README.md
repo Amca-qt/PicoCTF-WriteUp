@@ -20,10 +20,29 @@ PicoCTF 2024
 
 ## PicoCTF 2019
 - ### The Numbers
+
+On this simple task we've been given a picture that ahve numbers in it, probably a flag
+
+Identified those number is [Letter Number Code (A1Z26)](hhttps://www.codewars.com/kata/5e83519136b284002487e3f9). 
+
+Go to [Dcode.fr](https://www.dcode.fr/letter-number-cipher) to decode the message, then you'll get the flag
+
+``PICOCTF{THENUMBERSMASON}``
+
 - ### 13
+
+<img alt="ROT-13" src="img/ROT13.PNG">
+
+As the Description shown we know that its ROT 13 Cipher.
+
+This one similar to recent 3108 CTF Events which is [``Perak : Pandak Lam``](https://github.com/Amca-qt/3108-CTF-WriteUp?tab=readme-ov-file#perak--pandak-lam-)
+
+``picoCTF{not_too_bad_of_a_problem}``
 
 ## PicoCTF 2021
 - ### Mod 26
+
+This one also a similar to 
 
 ## PicoCTF 2024
 - ### interencdec
